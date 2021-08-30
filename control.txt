@@ -1,1 +1,1 @@
-shutdown "30"
+shutdown "28"
