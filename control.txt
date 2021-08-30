@@ -1,1 +1,1 @@
-shutdown "15"
+shutdown "30"
