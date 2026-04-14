@@ -27,4 +27,4 @@ end
 % Plot current
 figure; plot(t, v, 'LineWidth', 1.5); grid on
 xlabel('t (s)'); ylabel('v(t) (V)');
-title(sprintf('Parallel RLC (Underdamped) Forward Euler | R=%.1fΩ, L=%.3gH, C=%.3gF', R, L, C));
+title(sprintf('Parallel RLC Forward Euler | R=%.1fΩ, L=%.3gH, C=%.3gF', R, L, C));
